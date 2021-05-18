@@ -8,10 +8,10 @@
         3) Run app (green triangle at the top right)
                    - Make sure you have songs in your local file
 
-         App Details:
-         - Tap on any song within view to start the music player
-         - Scroll down for more songs
-         - Songs are sorted by date added
+        App Details:
+        - Tap on any song within view to start the music player
+        - Scroll down for more songs
+        - Songs are sorted by date added
 
         Search Screen:
         - Type the name of a song, lowercase or uppercase doesn't matter
